@@ -163,6 +163,7 @@
 - [Daniel Youngbar](https://github.com/DYoungbar3)
 - [Roosevelt Burden](https://github.com/MrBird88)
 - [Sidney Tebbal](https://github.com/sidney888)
+- [Avantae Jackson](https://github.com/allupfortae)
   Ericsson Colborn
 - [Ankit Anand](https://github.com/AnkitAnandMastery17)
 - [Mert Arcan](https://github.com/ArjeinN)
